@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-     <h1 data-testid="cypress-title">Cypress dem</h1>
+     <h1 data-testid="cypress-title">Cypress demo</h1>
     
 
           {data.map((item) => (
